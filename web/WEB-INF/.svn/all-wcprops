@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/fa17-cs242/!svn/ver/6733/cmo2/Assignment1.1/web/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fa17-cs242/!svn/ver/6733/cmo2/Assignment1.1/web/WEB-INF/appengine-web.xml
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fa17-cs242/!svn/ver/6733/cmo2/Assignment1.1/web/WEB-INF/struts-config.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/fa17-cs242/!svn/ver/6733/cmo2/Assignment1.1/web/WEB-INF/web.xml
+END
+sun-jaxws.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fa17-cs242/!svn/ver/6733/cmo2/Assignment1.1/web/WEB-INF/sun-jaxws.xml
+END
